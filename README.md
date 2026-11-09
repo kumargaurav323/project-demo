@@ -1,7 +1,7 @@
 # project-demo
 my first repo
 
-author-Gaurav 
+author-Gaurav solanki
 <br>
 Role-data_analyst
 
